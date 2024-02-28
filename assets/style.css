@@ -10,7 +10,11 @@
 body {
 	background: cadetblue;
     height: 100vh;
-    display: flex;
+}
+.title{
+    text-align: center;
+    color:darkolivegreen;
+    margin: 50px 50px;
 }
 
 .full-container {
